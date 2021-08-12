@@ -1,4 +1,4 @@
-⏳️ # todos-cli
+# todos-cli ⏱️
 
 **_Python based cli for managing todos_**
 
