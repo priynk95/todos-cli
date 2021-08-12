@@ -1,4 +1,4 @@
-# todos-cli
+⏳️ # todos-cli
 
 **_Python based cli for managing todos_**
 
@@ -43,7 +43,7 @@
 
 **TODO**
 
-- `todo lists`
+- `todo all`
 - `todo create`
 - `todo edit todo_id`
 - `todo complete todo_id`
